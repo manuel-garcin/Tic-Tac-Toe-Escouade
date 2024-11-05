@@ -1,0 +1,6 @@
+# Création de la matrice 3x3 pour Tic-Tac-Toe
+grille = [
+    [None, None, None],
+    [None, None, None],
+    [None, None, None]
+]
